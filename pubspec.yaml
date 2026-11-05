@@ -1,7 +1,8 @@
-name: mileage_calculator
-description: Experiment 4 - 24CS2016 Building Applications using Flutter
-publish_to: 'none'
-version: 1.0.0+1
+name: exp4
+description: Flutter experiment 4 - a mileage calculator app with input fields and computed results.
+version: 1.0.0
+homepage: https://github.com/Amal-0807/exp4_mileage_calculator
+repository: https://github.com/Amal-0807/exp4_mileage_calculator
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
